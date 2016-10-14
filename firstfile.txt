@@ -1,3 +1,5 @@
 This is the first file for learning git
 
-have fun!
+Have fun!
+
+To do list ...
